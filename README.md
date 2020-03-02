@@ -10,4 +10,4 @@ A system which identifies the emotion of the song with the help of audio sample.
 5.  tkinter
 
 
-![Imgur](https://imgur.com/EYAYwHJ)
+![](https://imgur.com/EYAYwHJ)
