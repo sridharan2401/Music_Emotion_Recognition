@@ -10,4 +10,4 @@ A system which identifies the emotion of the song with the help of audio sample.
 5.  tkinter
 
 ## User Interface
-![img](https://i.imgur.com/q75d3sL.png)
+![img](https://github.com/sridharan2401/Music_Emotion_Recognition/blob/master/UI%20Screenshot.png)
